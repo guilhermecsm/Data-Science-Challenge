@@ -1,0 +1,5724 @@
+[
+  {
+    "sale_date": "2018-05-01 00:05:57.705000+00:00",
+    "sale_id": "5ae7af65ad4a7e001416edc1",
+    "customer_id": "5ae7ae47ad4a7e001416edb7",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb67",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb67"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2e",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5b",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 00:17:40.235000+00:00",
+    "sale_id": "5ae7b224ad4a7e001416eddc",
+    "customer_id": "5ae7af63ad4a7e001416edc0",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4b",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb4b"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "59161cb4cb7257001150ebdb",
+        "kind": "meal",
+        "price": 23.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "5a0f2f12b1a9ce00145b97b4",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a0f2f12b1a9ce00145b97b4"
+        ]
+      },
+      {
+        "product_id": "59665dbc91d15d0011120f75",
+        "kind": "meal",
+        "price": 24.7,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2b",
+          "59161c71cb7257001150eb75",
+          "592caecbcf8abf00114e223e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb65",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb65"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb67",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb67"
+        ]
+      },
+      {
+        "product_id": "59161cb4cb7257001150ebe6",
+        "kind": "meal",
+        "price": 20.7,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb76",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "5a4d3b63285921001450822a",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a4d3b63285921001450822a"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 00:20:29.184000+00:00",
+    "sale_id": "5ae7b2cdad4a7e001416ede3",
+    "customer_id": "5a9f2e4a76f4700014883f27",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb4b",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb4b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3a",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb65",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb65"
+        ]
+      },
+      {
+        "product_id": "5a0f420bb1a9ce00145b981d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5a0f420bb1a9ce00145b981d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb68",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb68"
+        ]
+      },
+      {
+        "product_id": "5a53d9c2bb82cd001421e0b0",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 3,
+        "items": [
+          "5a53d9c2bb82cd001421e0b0"
+        ]
+      },
+      {
+        "product_id": "5947bf67056d7200113bd556",
+        "kind": "product",
+        "price": 8.9,
+        "quantity": 2,
+        "items": [
+          "5947bf67056d7200113bd556"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb69",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb69"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb31",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb31"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb67",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb67"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb33",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb33"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 00:32:17.156000+00:00",
+    "sale_id": "5ae7b591ad4a7e001416edf8",
+    "customer_id": "5a84b04c86d59100147682cb",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "5a0f420bb1a9ce00145b981d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 4,
+        "items": [
+          "5a0f420bb1a9ce00145b981d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 5,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 10,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb43",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb43"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb5e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 3,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      },
+      {
+        "product_id": "595653461cfa4a00119e76e1",
+        "kind": "product",
+        "price": 18.9,
+        "quantity": 2,
+        "items": [
+          "595653461cfa4a00119e76e1"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5b",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb5b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb48",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb48"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 00:35:14.828000+00:00",
+    "sale_id": "5ae7b642ad4a7e001416ee0a",
+    "customer_id": "5a4ba8255e6e5b001431e211",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5916969751d2d40011b5277c",
+        "kind": "kit",
+        "price": 346.6,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb31",
+          "59161c71cb7257001150eb30",
+          "5abe5deb49e81c00142f816b",
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb32",
+          "5a95f40ec797150014a9c598",
+          "59161c71cb7257001150eb34",
+          "59161c71cb7257001150eb3c",
+          "59161c71cb7257001150eb70",
+          "59161c71cb7257001150eb4e",
+          "59161c71cb7257001150eb5a",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb49",
+          "59161c71cb7257001150eb42",
+          "5a53d9c2bb82cd001421e0b0",
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb32",
+          "59161c71cb7257001150eb3f",
+          "59161c71cb7257001150eb46",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb72",
+          "59161c71cb7257001150eb2c",
+          "5a8c8402126bb30014b96e59",
+          "5a9da5c50ca1a1001422a9e2",
+          "59161c71cb7257001150eb49",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb2b",
+          "59161c71cb7257001150eb65",
+          "59161c71cb7257001150eb69",
+          "592caecbcf8abf00114e223e",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb70",
+          "595653461cfa4a00119e76e1",
+          "59161c71cb7257001150eb3f",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb4e",
+          "5a8c7e7e126bb30014b96e58",
+          "59161c71cb7257001150eb2b",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb49"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 00:40:04.948000+00:00",
+    "sale_id": "5ae7b764ad4a7e001416ee10",
+    "customer_id": "5a5378d21e69060014cf349e",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "592caecbcf8abf00114e223e",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 4,
+        "items": [
+          "592caecbcf8abf00114e223e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb48",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb48"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb42",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb52",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb52"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb49",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb49"
+        ]
+      },
+      {
+        "product_id": "5a0f2f12b1a9ce00145b97b4",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5a0f2f12b1a9ce00145b97b4"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb76",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb76"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 4,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 2,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 00:42:00.597000+00:00",
+    "sale_id": "5ae7b7d8ad4a7e001416ee14",
+    "customer_id": "5ae7b472ad4a7e001416eded",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "pick_up",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 5,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb46",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb46"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb66",
+        "kind": "product",
+        "price": 4.2,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb66"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3f",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3f"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb52",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb52"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "5a9da5c50ca1a1001422a9e2",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 2,
+        "items": [
+          "5a9da5c50ca1a1001422a9e2"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4f",
+        "kind": "product",
+        "price": 4.2,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb4f"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 00:45:51.016000+00:00",
+    "sale_id": "5ae7b8bfad4a7e001416ee1c",
+    "customer_id": "5916a3d894ddb7001199f463",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb5e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4f",
+        "kind": "product",
+        "price": 4.2,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4f"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3a",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb46",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb46"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb33",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb33"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "5a9da5c50ca1a1001422a9e2",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 3,
+        "items": [
+          "5a9da5c50ca1a1001422a9e2"
+        ]
+      },
+      {
+        "product_id": "5a4cebc265421f0014b70d63",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "5a4cebc265421f0014b70d63"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb66",
+        "kind": "product",
+        "price": 4.2,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb66"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb55",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb55"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 00:53:33.396000+00:00",
+    "sale_id": "5ae7ba8dad4a7e001416ee2c",
+    "customer_id": "5a31cf585a7cbd0014204956",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5aa3097faa78dc001438a1e9",
+        "kind": "meal",
+        "price": 24.3,
+        "quantity": 1,
+        "items": [
+          "5a8c8402126bb30014b96e59",
+          "5a95f40ec797150014a9c598",
+          "5a9da5c50ca1a1001422a9e2"
+        ]
+      },
+      {
+        "product_id": "59161cb3cb7257001150ebcb",
+        "kind": "meal",
+        "price": 18.4,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb72",
+          "59161c71cb7257001150eb2f"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "5947bf67056d7200113bd556",
+        "kind": "product",
+        "price": 8.9,
+        "quantity": 1,
+        "items": [
+          "5947bf67056d7200113bd556"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5e"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 1,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:00:52.587000+00:00",
+    "sale_id": "5ae7bc44ad4a7e001416ee37",
+    "customer_id": "5917586a7d6dc70011288cb4",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:02:01.134000+00:00",
+    "sale_id": "5ae7bc89ad4a7e001416ee3b",
+    "customer_id": "59e761c7bda04d0012e36929",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2e",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb34",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb34"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb52",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb52"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:09:51.877000+00:00",
+    "sale_id": "5ae7be5fad4a7e001416ee43",
+    "customer_id": "5916a3d894ddb7001199fae5",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5abe5deb49e81c00142f816b",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "5abe5deb49e81c00142f816b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb31",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb31"
+        ]
+      },
+      {
+        "product_id": "5ab102cb11036000148d4d1f",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "5ab102cb11036000148d4d1f"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb65",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb65"
+        ]
+      },
+      {
+        "product_id": "5a9da5c50ca1a1001422a9e2",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "5a9da5c50ca1a1001422a9e2"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "5a53d9c2bb82cd001421e0b0",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a53d9c2bb82cd001421e0b0"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2e",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2e"
+        ]
+      },
+      {
+        "product_id": "5a0f420bb1a9ce00145b981d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a0f420bb1a9ce00145b981d"
+        ]
+      },
+      {
+        "product_id": "5a4d3b63285921001450822a",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a4d3b63285921001450822a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb48",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb48"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb34",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb34"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb46",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb46"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "5a0f2f12b1a9ce00145b97b4",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5a0f2f12b1a9ce00145b97b4"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5b",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5b"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:20:17.871000+00:00",
+    "sale_id": "5ae7c0d1ad4a7e001416ee4b",
+    "customer_id": "5ad04b626fa8b40014aea0f5",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb31",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb31"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb48",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb48"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb75",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb75"
+        ]
+      },
+      {
+        "product_id": "5a53d9c2bb82cd001421e0b0",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a53d9c2bb82cd001421e0b0"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:26:58.381000+00:00",
+    "sale_id": "5ae7c262ad4a7e001416ee55",
+    "customer_id": "5ae7bf83ad4a7e001416ee47",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5a0f2f12b1a9ce00145b97b4",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a0f2f12b1a9ce00145b97b4"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb31",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb31"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "5947bf67056d7200113bd556",
+        "kind": "product",
+        "price": 8.9,
+        "quantity": 1,
+        "items": [
+          "5947bf67056d7200113bd556"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3a",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb48",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb48"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4b",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb52",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb52"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb57",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb57"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb43",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb43"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb76",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb76"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb42",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "5a0f420bb1a9ce00145b981d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5a0f420bb1a9ce00145b981d"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:36:34.225000+00:00",
+    "sale_id": "5ae7c4a2ad4a7e001416ee64",
+    "customer_id": "5ab37945734b4000142e0000",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb4b",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb49",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb49"
+        ]
+      },
+      {
+        "product_id": "5a4d3b63285921001450822a",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a4d3b63285921001450822a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb52",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb52"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb4e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb34",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb34"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb44",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb44"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:36:57.035000+00:00",
+    "sale_id": "5ae7c4b97541ac001493a2f8",
+    "customer_id": "5adfc65c9334c80014f96803",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5a2837fe6481b7001488774a",
+        "kind": "meal",
+        "price": 25.3,
+        "quantity": 1,
+        "items": [
+          "5a25ca32be7d27001455e0b5",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161cb3cb7257001150ebcf",
+        "kind": "meal",
+        "price": 26.7,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb69",
+          "59161c71cb7257001150eb2d",
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161cb4cb7257001150ebeb",
+        "kind": "meal",
+        "price": 27.3,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb69",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb49"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "5ab102cb11036000148d4d1f",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "5ab102cb11036000148d4d1f"
+        ]
+      },
+      {
+        "product_id": "595666351cfa4a00119e76e4",
+        "kind": "meal",
+        "price": 31.7,
+        "quantity": 2,
+        "items": [
+          "595653461cfa4a00119e76e1",
+          "59161c71cb7257001150eb36",
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "596902faec6abf0011aff571",
+        "kind": "meal",
+        "price": 33.7,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb31",
+          "59161c71cb7257001150eb32",
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5b",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb5b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb43",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb43"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb5e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2e",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2e"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:45:53.767000+00:00",
+    "sale_id": "5ae7c6d14dcf2900143a7bcf",
+    "customer_id": "59540762f2590d0011d8383b",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb4f",
+        "kind": "product",
+        "price": 4.2,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4f"
+        ]
+      },
+      {
+        "product_id": "5a8c7e7e126bb30014b96e58",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "5a8c7e7e126bb30014b96e58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb57",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb57"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb41",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb41"
+        ]
+      },
+      {
+        "product_id": "5abe664649e81c00142f816c",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "5abe664649e81c00142f816c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 1,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 3,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb44",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb44"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "595653461cfa4a00119e76e1",
+        "kind": "product",
+        "price": 18.9,
+        "quantity": 1,
+        "items": [
+          "595653461cfa4a00119e76e1"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:53:35.173000+00:00",
+    "sale_id": "5ae7c89fad4a7e001416ee6e",
+    "customer_id": "5ab2fcac734b4000142dfd7e",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb3a",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb48",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb48"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb69",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb69"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb67",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb67"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb34",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb34"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4b",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb4b"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 1,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "5a8c7e7e126bb30014b96e58",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 4,
+        "items": [
+          "5a8c7e7e126bb30014b96e58"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 01:56:26.704000+00:00",
+    "sale_id": "5ae7c94aad4a7e001416ee71",
+    "customer_id": "5a983b2798440500143a70f6",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5ab3bb0eac208900147849dd",
+        "kind": "meal",
+        "price": 22.3,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb4e",
+          "5ab102cb11036000148d4d1f"
+        ]
+      },
+      {
+        "product_id": "59161cb4cb7257001150ebed",
+        "kind": "meal",
+        "price": 23.3,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb72",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "59161cb3cb7257001150ebad",
+        "kind": "meal",
+        "price": 20.8,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb68"
+        ]
+      },
+      {
+        "product_id": "59161cb3cb7257001150ebca",
+        "kind": "meal",
+        "price": 25.3,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb44",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb3f"
+        ]
+      },
+      {
+        "product_id": "5a902327e5450e0014ccb9c5",
+        "kind": "meal",
+        "price": 19.7,
+        "quantity": 1,
+        "items": [
+          "5a8c7e7e126bb30014b96e58",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb65"
+        ]
+      },
+      {
+        "product_id": "59161cb3cb7257001150ebac",
+        "kind": "meal",
+        "price": 22.3,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2b",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb73"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 02:22:16.616000+00:00",
+    "sale_id": "5ae7cf58ad4a7e001416ee8b",
+    "customer_id": "596429395c2a7d001197b800",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb55",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb55"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161cb4cb7257001150ebdb",
+        "kind": "meal",
+        "price": 23.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb48",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb48"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb46",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb46"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb49",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb49"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 02:32:01.955000+00:00",
+    "sale_id": "5ae7d1a1ad4a7e001416eea0",
+    "customer_id": "5ae7d037ad4a7e001416ee8f",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161cb3cb7257001150ebab",
+        "kind": "meal",
+        "price": 20.7,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb76",
+          "59161c71cb7257001150eb52",
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "592dc8acf608230011849d96",
+        "kind": "meal",
+        "price": 26.7,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb44",
+          "59161c71cb7257001150eb33",
+          "592caecbcf8abf00114e223e"
+        ]
+      },
+      {
+        "product_id": "59526396258ca30011b1c045",
+        "kind": "meal",
+        "price": 22.7,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3c",
+          "59161c71cb7257001150eb34",
+          "59161c71cb7257001150eb65"
+        ]
+      },
+      {
+        "product_id": "59161cb4cb7257001150ebd9",
+        "kind": "meal",
+        "price": 25.3,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb46",
+          "59161c71cb7257001150eb3f",
+          "59161c71cb7257001150eb75"
+        ]
+      },
+      {
+        "product_id": "59161cb4cb7257001150ebdb",
+        "kind": "meal",
+        "price": 23.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb2c"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 02:32:17.025000+00:00",
+    "sale_id": "5ae7d1b1ad4a7e001416eea3",
+    "customer_id": "59ab6a6f6021a00011be4fad",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 2,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "5a4fdd7aaa85c300142eea8a",
+        "kind": "meal",
+        "price": 22.9,
+        "quantity": 1,
+        "items": [
+          "5a4cebc265421f0014b70d63",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161cb3cb7257001150ebcb",
+        "kind": "meal",
+        "price": 18.4,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb72",
+          "59161c71cb7257001150eb2f"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      },
+      {
+        "product_id": "5a9da5c50ca1a1001422a9e2",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 5,
+        "items": [
+          "5a9da5c50ca1a1001422a9e2"
+        ]
+      },
+      {
+        "product_id": "59161cb3cb7257001150ebad",
+        "kind": "meal",
+        "price": 20.8,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb68"
+        ]
+      },
+      {
+        "product_id": "59161cb4cb7257001150ebdb",
+        "kind": "meal",
+        "price": 23.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb76",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb76"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "59161cb4cb7257001150ebe6",
+        "kind": "meal",
+        "price": 20.7,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb76",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "5a4cebc265421f0014b70d63",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "5a4cebc265421f0014b70d63"
+        ]
+      },
+      {
+        "product_id": "5abe5deb49e81c00142f816b",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "5abe5deb49e81c00142f816b"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161cb3cb7257001150ebbf",
+        "kind": "meal",
+        "price": 24.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb44",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb2c"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 02:47:59.243000+00:00",
+    "sale_id": "5ae7d55fad4a7e001416eebc",
+    "customer_id": "5ae7d4b6ad4a7e001416eeb8",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "591694ac51d2d40011b52775",
+        "kind": "kit",
+        "price": 162.8,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb32",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb4e",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb76",
+          "5a9da5c50ca1a1001422a9e2",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb3c",
+          "59161c71cb7257001150eb70",
+          "59161c71cb7257001150eb34",
+          "59161c71cb7257001150eb72",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb46",
+          "592caecbcf8abf00114e223e",
+          "5a95f40ec797150014a9c598",
+          "5a8c8402126bb30014b96e59",
+          "5a9da5c50ca1a1001422a9e2",
+          "59161c71cb7257001150eb36"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 02:48:28.851000+00:00",
+    "sale_id": "5ae7d57cad4a7e001416eebf",
+    "customer_id": "5ae7d3abad4a7e001416eeb3",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb75",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb75"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2f",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2f"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3f",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3f"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 02:50:28.184000+00:00",
+    "sale_id": "5ae7d5f4ad4a7e001416eec8",
+    "customer_id": "5ae7d4b6ad4a7e001416eeb8",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5916969751d2d40011b5277c",
+        "kind": "kit",
+        "price": 346.6,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb31",
+          "59161c71cb7257001150eb30",
+          "5abe5deb49e81c00142f816b",
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb32",
+          "5a95f40ec797150014a9c598",
+          "59161c71cb7257001150eb34",
+          "59161c71cb7257001150eb3c",
+          "59161c71cb7257001150eb70",
+          "59161c71cb7257001150eb4e",
+          "59161c71cb7257001150eb5a",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb49",
+          "59161c71cb7257001150eb42",
+          "5a53d9c2bb82cd001421e0b0",
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb32",
+          "59161c71cb7257001150eb3f",
+          "59161c71cb7257001150eb46",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb72",
+          "59161c71cb7257001150eb2c",
+          "5a8c8402126bb30014b96e59",
+          "5a9da5c50ca1a1001422a9e2",
+          "59161c71cb7257001150eb49",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb2b",
+          "59161c71cb7257001150eb65",
+          "59161c71cb7257001150eb69",
+          "592caecbcf8abf00114e223e",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb70",
+          "595653461cfa4a00119e76e1",
+          "59161c71cb7257001150eb3f",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb4e",
+          "5a8c7e7e126bb30014b96e58",
+          "59161c71cb7257001150eb2b",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb49"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 02:56:27.511000+00:00",
+    "sale_id": "5ae7d75bad4a7e001416eecf",
+    "customer_id": "5a9d6cd2cbc01400148950bd",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb48",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb48"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb75",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb75"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "592caecbcf8abf00114e223e",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 1,
+        "items": [
+          "592caecbcf8abf00114e223e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb69",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb69"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 02:56:41.805000+00:00",
+    "sale_id": "5ae7d769ad4a7e001416eed2",
+    "customer_id": "5a1807bbdb79f40013696341",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "pick_up",
+    "products": [
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 2,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "5947bf67056d7200113bd556",
+        "kind": "product",
+        "price": 8.9,
+        "quantity": 4,
+        "items": [
+          "5947bf67056d7200113bd556"
+        ]
+      },
+      {
+        "product_id": "5a53d9c2bb82cd001421e0b0",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a53d9c2bb82cd001421e0b0"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb33",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb33"
+        ]
+      },
+      {
+        "product_id": "5a8c7e7e126bb30014b96e58",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 4,
+        "items": [
+          "5a8c7e7e126bb30014b96e58"
+        ]
+      },
+      {
+        "product_id": "595653461cfa4a00119e76e1",
+        "kind": "product",
+        "price": 18.9,
+        "quantity": 4,
+        "items": [
+          "595653461cfa4a00119e76e1"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 8,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb42",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4b",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb4b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5b",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb5b"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 03:33:18.291000+00:00",
+    "sale_id": "5ae7dffead4a7e001416eeeb",
+    "customer_id": "5a24af7b6ef8380014a25b7a",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5ae7df84ad4a7e001416eee7",
+        "kind": "kit",
+        "price": 172.7,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb32",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb46",
+          "59161c71cb7257001150eb65",
+          "59161c71cb7257001150eb44",
+          "59161c71cb7257001150eb42",
+          "5a9da5c50ca1a1001422a9e2",
+          "5a53d9c2bb82cd001421e0b0",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb67",
+          "59161c71cb7257001150eb3c",
+          "59161c71cb7257001150eb2f",
+          "5a95f40ec797150014a9c598",
+          "59161c71cb7257001150eb52",
+          "59161c71cb7257001150eb46",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb3c",
+          "59161c71cb7257001150eb42",
+          "5947bf67056d7200113bd556"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 03:39:01.431000+00:00",
+    "sale_id": "5ae7e155ad4a7e001416eef5",
+    "customer_id": "5ae7dfa1ad4a7e001416eee9",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5ae7e00bad4a7e001416eeee",
+        "kind": "kit",
+        "price": 360.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb66",
+          "59161c71cb7257001150eb4f",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb75",
+          "5a8c8402126bb30014b96e59",
+          "59161c71cb7257001150eb46",
+          "5a95f40ec797150014a9c598",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb3c",
+          "592caecbcf8abf00114e223e",
+          "5a25ca32be7d27001455e0b5",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb46",
+          "592caecbcf8abf00114e223e",
+          "59161c71cb7257001150eb73",
+          "59161c71cb7257001150eb2c",
+          "5a8c7e7e126bb30014b96e58",
+          "59161c71cb7257001150eb70",
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb2d",
+          "59161c71cb7257001150eb49",
+          "59161c71cb7257001150eb73",
+          "59161c71cb7257001150eb2b",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb32",
+          "59161c71cb7257001150eb31",
+          "59161c71cb7257001150eb68",
+          "59161c71cb7257001150eb72",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb38",
+          "59161c71cb7257001150eb55",
+          "59161c71cb7257001150eb42",
+          "595653461cfa4a00119e76e1",
+          "5947bf67056d7200113bd556",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb30",
+          "5a53d9c2bb82cd001421e0b0",
+          "5abe5deb49e81c00142f816b",
+          "59161c71cb7257001150eb44",
+          "59161c71cb7257001150eb48",
+          "59161c71cb7257001150eb3f"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 03:58:10.311000+00:00",
+    "sale_id": "5ae7e5d2ad4a7e001416ef01",
+    "customer_id": "5aaaeca1a69ea50014d8dca4",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb57",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb57"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb43",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb43"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5e"
+        ]
+      },
+      {
+        "product_id": "5adff394fb391000143b9d40",
+        "kind": "kit",
+        "price": 301.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb70",
+          "5a53d9c2bb82cd001421e0b0",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb41",
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb66",
+          "59161c71cb7257001150eb69",
+          "592caecbcf8abf00114e223e",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb5a",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb46",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb34",
+          "5a8c7e7e126bb30014b96e58",
+          "59161c71cb7257001150eb48",
+          "595653461cfa4a00119e76e1",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb76",
+          "59161c71cb7257001150eb65",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb2c",
+          "5a6b5cf0ecb13800147b6752",
+          "59161c71cb7257001150eb70",
+          "59161c71cb7257001150eb76",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb3c",
+          "5abe5deb49e81c00142f816b",
+          "59161c71cb7257001150eb42",
+          "592caecbcf8abf00114e223e",
+          "5a6b5cf0ecb13800147b6752",
+          "59161c71cb7257001150eb2c"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 09:46:16.114000+00:00",
+    "sale_id": "5ae83768ad4a7e001416ef20",
+    "customer_id": "59dd343f91092700125c5e09",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5a8c7e7e126bb30014b96e58",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 4,
+        "items": [
+          "5a8c7e7e126bb30014b96e58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb67",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb67"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4b",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb4b"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 11:24:38.361000+00:00",
+    "sale_id": "5ae84e76ad4a7e001416ef40",
+    "customer_id": "5ae84da8ad4a7e001416ef3c",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "591694ac51d2d40011b52775",
+        "kind": "kit",
+        "price": 162.8,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb32",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb4e",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb76",
+          "5a9da5c50ca1a1001422a9e2",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb3c",
+          "59161c71cb7257001150eb70",
+          "59161c71cb7257001150eb34",
+          "59161c71cb7257001150eb72",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb46",
+          "592caecbcf8abf00114e223e",
+          "5a95f40ec797150014a9c598",
+          "5a8c8402126bb30014b96e59",
+          "5a9da5c50ca1a1001422a9e2",
+          "59161c71cb7257001150eb36"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 11:35:52.967000+00:00",
+    "sale_id": "5ae85118927c2c00149d7949",
+    "customer_id": "5ad8459689267b001460a8d5",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161cb3cb7257001150ebab",
+        "kind": "meal",
+        "price": 20.7,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb76",
+          "59161c71cb7257001150eb52",
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "59526396258ca30011b1c045",
+        "kind": "meal",
+        "price": 22.7,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3c",
+          "59161c71cb7257001150eb34",
+          "59161c71cb7257001150eb65"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3f",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb3f"
+        ]
+      },
+      {
+        "product_id": "5a90224c911eb0001401b2be",
+        "kind": "meal",
+        "price": 18.3,
+        "quantity": 3,
+        "items": [
+          "5a8c7e7e126bb30014b96e58",
+          "59161c71cb7257001150eb4f",
+          "59161c71cb7257001150eb66"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 3,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb76",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb76"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb34",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb34"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb49",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb49"
+        ]
+      },
+      {
+        "product_id": "5a8c7e7e126bb30014b96e58",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 3,
+        "items": [
+          "5a8c7e7e126bb30014b96e58"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:07:56.907000+00:00",
+    "sale_id": "5ae8589cad4a7e001416ef51",
+    "customer_id": "5939ed8eb1b295001189fb37",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      },
+      {
+        "product_id": "5a0f420bb1a9ce00145b981d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 3,
+        "items": [
+          "5a0f420bb1a9ce00145b981d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 10,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb42",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "5a0f2f12b1a9ce00145b97b4",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 3,
+        "items": [
+          "5a0f2f12b1a9ce00145b97b4"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb65",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb65"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:15:52.763000+00:00",
+    "sale_id": "5ae85a78ad4a7e001416ef58",
+    "customer_id": "596e9e63d179450011bfe213",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb69",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb69"
+        ]
+      },
+      {
+        "product_id": "5a4d3b63285921001450822a",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a4d3b63285921001450822a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "5a8c7e7e126bb30014b96e58",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 2,
+        "items": [
+          "5a8c7e7e126bb30014b96e58"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 5,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5b",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb5b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 8,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 5,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb75",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb75"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:36:02.230000+00:00",
+    "sale_id": "5ae85f32ad4a7e001416ef65",
+    "customer_id": "5aa68878f2a6f000144e8b55",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "595653461cfa4a00119e76e1",
+        "kind": "product",
+        "price": 18.9,
+        "quantity": 2,
+        "items": [
+          "595653461cfa4a00119e76e1"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 1,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb46",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb46"
+        ]
+      },
+      {
+        "product_id": "5a4cebc265421f0014b70d63",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "5a4cebc265421f0014b70d63"
+        ]
+      },
+      {
+        "product_id": "5a8c7e7e126bb30014b96e58",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "5a8c7e7e126bb30014b96e58"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:44:58.830000+00:00",
+    "sale_id": "5ae8614aad4a7e001416ef83",
+    "customer_id": "59a817091b71900011ee6c25",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb75",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb75"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 1,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb42",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "5a9da5c50ca1a1001422a9e2",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "5a9da5c50ca1a1001422a9e2"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb46",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb46"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb33",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb33"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb5e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3a",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3a"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:48:53.287000+00:00",
+    "sale_id": "5ae86235ad4a7e001416ef8d",
+    "customer_id": "59245b4a08198000115247f2",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb75",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb75"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb65",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb65"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 1,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4b",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb69",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb69"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "5abe5deb49e81c00142f816b",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "5abe5deb49e81c00142f816b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb76",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb76"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb42",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3f",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3f"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3a",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "5a9da5c50ca1a1001422a9e2",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "5a9da5c50ca1a1001422a9e2"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb33",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb33"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:49:39.352000+00:00",
+    "sale_id": "5ae86263ad4a7e001416ef90",
+    "customer_id": "5a8b66a0d841da0014a2f112",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb44",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb44"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "592caecbcf8abf00114e223e",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 2,
+        "items": [
+          "592caecbcf8abf00114e223e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "5abe5deb49e81c00142f816b",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "5abe5deb49e81c00142f816b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb49",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb49"
+        ]
+      },
+      {
+        "product_id": "5a4d3b63285921001450822a",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a4d3b63285921001450822a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb57",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb57"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2e",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb5e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb67",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb67"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb33",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb33"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb52",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb52"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb76",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb76"
+        ]
+      },
+      {
+        "product_id": "5947bf67056d7200113bd556",
+        "kind": "product",
+        "price": 8.9,
+        "quantity": 1,
+        "items": [
+          "5947bf67056d7200113bd556"
+        ]
+      },
+      {
+        "product_id": "5ab102cb11036000148d4d1f",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "5ab102cb11036000148d4d1f"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb65",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb65"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:51:05.966000+00:00",
+    "sale_id": "5ae862b9ad4a7e001416ef94",
+    "customer_id": "5ae8616ead4a7e001416ef86",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5926f4be73ae2f0011305d4b",
+        "kind": "kit",
+        "price": 178.3,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2b",
+          "5a9da5c50ca1a1001422a9e2",
+          "592caecbcf8abf00114e223e",
+          "595653461cfa4a00119e76e1",
+          "59161c71cb7257001150eb65",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb49",
+          "59161c71cb7257001150eb76",
+          "59161c71cb7257001150eb52",
+          "59161c71cb7257001150eb32",
+          "59161c71cb7257001150eb44",
+          "59161c71cb7257001150eb30",
+          "59161c71cb7257001150eb4e",
+          "59161c71cb7257001150eb3c",
+          "59161c71cb7257001150eb34",
+          "59161c71cb7257001150eb3f",
+          "5a4cebc265421f0014b70d63",
+          "5a9da5c50ca1a1001422a9e2",
+          "59161c71cb7257001150eb42"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:53:57.135000+00:00",
+    "sale_id": "5ae86365ad4a7e001416ef9b",
+    "customer_id": "5a790267fc4e42001443acb4",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5a70761bb0d9210014171a11",
+        "kind": "meal",
+        "price": 21.7,
+        "quantity": 1,
+        "items": [
+          "5a6b5cf0ecb13800147b6752",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb70",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb70"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "5ab102cb11036000148d4d1f",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 2,
+        "items": [
+          "5ab102cb11036000148d4d1f"
+        ]
+      },
+      {
+        "product_id": "5a0f420bb1a9ce00145b981d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a0f420bb1a9ce00145b981d"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb33",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb33"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3a",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3a"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 2,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2e",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb42",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb65",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb65"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb43",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb43"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "5a4cebc265421f0014b70d63",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "5a4cebc265421f0014b70d63"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:54:28.435000+00:00",
+    "sale_id": "5ae86384ad4a7e001416ef9e",
+    "customer_id": "5ae83b05ad4a7e001416ef25",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "pick_up",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb69",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb69"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb30",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb30"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb4e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb5e"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:55:18.985000+00:00",
+    "sale_id": "5ae863b6ad4a7e001416efa2",
+    "customer_id": "5adde96c7ac2ab0014140df7",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "591693f151d2d40011b52774",
+        "kind": "kit",
+        "price": 356.0,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb66",
+          "59161c71cb7257001150eb4f",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb75",
+          "5a8c8402126bb30014b96e59",
+          "59161c71cb7257001150eb46",
+          "5a95f40ec797150014a9c598",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb3c",
+          "592caecbcf8abf00114e223e",
+          "5a25ca32be7d27001455e0b5",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb46",
+          "592caecbcf8abf00114e223e",
+          "59161c71cb7257001150eb73",
+          "59161c71cb7257001150eb2c",
+          "5a8c7e7e126bb30014b96e58",
+          "59161c71cb7257001150eb74",
+          "59161c71cb7257001150eb2d",
+          "59161c71cb7257001150eb49",
+          "59161c71cb7257001150eb73",
+          "59161c71cb7257001150eb2b",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb32",
+          "59161c71cb7257001150eb31",
+          "59161c71cb7257001150eb68",
+          "59161c71cb7257001150eb72",
+          "59161c71cb7257001150eb2f",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb38",
+          "59161c71cb7257001150eb55",
+          "59161c71cb7257001150eb42",
+          "595653461cfa4a00119e76e1",
+          "5947bf67056d7200113bd556",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb30",
+          "5a53d9c2bb82cd001421e0b0",
+          "5abe5deb49e81c00142f816b",
+          "59161c71cb7257001150eb44",
+          "59161c71cb7257001150eb48",
+          "59161c71cb7257001150eb3f"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:56:27.799000+00:00",
+    "sale_id": "5ae863fbad4a7e001416efa9",
+    "customer_id": "5ab18c4681d590001433c33c",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb42",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      },
+      {
+        "product_id": "5ab102cb11036000148d4d1f",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "5ab102cb11036000148d4d1f"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3a",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "5a0f420bb1a9ce00145b981d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a0f420bb1a9ce00145b981d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb55",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb55"
+        ]
+      },
+      {
+        "product_id": "5947bf67056d7200113bd556",
+        "kind": "product",
+        "price": 8.9,
+        "quantity": 3,
+        "items": [
+          "5947bf67056d7200113bd556"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb57",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb57"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 12:59:53.987000+00:00",
+    "sale_id": "5ae864c9ad4a7e001416efb0",
+    "customer_id": "591b93d83502de001138591b",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb58",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb58"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb4e",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb4e"
+        ]
+      },
+      {
+        "product_id": "5a9da5c50ca1a1001422a9e2",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 2,
+        "items": [
+          "5a9da5c50ca1a1001422a9e2"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 1,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb43",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb43"
+        ]
+      },
+      {
+        "product_id": "595653461cfa4a00119e76e1",
+        "kind": "product",
+        "price": 18.9,
+        "quantity": 1,
+        "items": [
+          "595653461cfa4a00119e76e1"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb52",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb52"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      },
+      {
+        "product_id": "5a25ca32be7d27001455e0b5",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb36",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb36"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb67",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb67"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb44",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb44"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb33",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb33"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb41",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb41"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb49",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb49"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "5a2837fe6481b7001488774a",
+        "kind": "meal",
+        "price": 25.3,
+        "quantity": 1,
+        "items": [
+          "5a25ca32be7d27001455e0b5",
+          "59161c71cb7257001150eb2c",
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "5947bf67056d7200113bd556",
+        "kind": "product",
+        "price": 8.9,
+        "quantity": 2,
+        "items": [
+          "5947bf67056d7200113bd556"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb42",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb42"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2e",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb48",
+        "kind": "product",
+        "price": 6.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb48"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 13:15:04.385000+00:00",
+    "sale_id": "5ae86858ad4a7e001416efba",
+    "customer_id": "59416e7632b7ce00116fc104",
+    "distribution_center_id": "5911a7adcca15a0011ef13d3",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb34",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb34"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3c",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb3c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb74",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb74"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb69",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb69"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb76",
+        "kind": "product",
+        "price": 9.9,
+        "quantity": 3,
+        "items": [
+          "59161c71cb7257001150eb76"
+        ]
+      },
+      {
+        "product_id": "5a53d9c2bb82cd001421e0b0",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a53d9c2bb82cd001421e0b0"
+        ]
+      },
+      {
+        "product_id": "5a6b5cf0ecb13800147b6752",
+        "kind": "product",
+        "price": 10.9,
+        "quantity": 4,
+        "items": [
+          "5a6b5cf0ecb13800147b6752"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb52",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb52"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 4,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 13:24:37.699000+00:00",
+    "sale_id": "5ae86a95ad4a7e001416efc7",
+    "customer_id": "5ae869b9ad4a7e001416efc1",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "pick_up",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb34",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb34"
+        ]
+      },
+      {
+        "product_id": "5a95f40ec797150014a9c598",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "5a95f40ec797150014a9c598"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "5947bf67056d7200113bd556",
+        "kind": "product",
+        "price": 8.9,
+        "quantity": 1,
+        "items": [
+          "5947bf67056d7200113bd556"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb68",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb68"
+        ]
+      },
+      {
+        "product_id": "5a0f420bb1a9ce00145b981d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5a0f420bb1a9ce00145b981d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb75",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb75"
+        ]
+      },
+      {
+        "product_id": "5947bd9a056d7200113bd555",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "5947bd9a056d7200113bd555"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3e",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3e"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb33",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb33"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 13:30:43.916000+00:00",
+    "sale_id": "5ae86c03ad4a7e001416efcf",
+    "customer_id": "5ae869b9ad4a7e001416efc1",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "pick_up",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb2c",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2c"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "5a2818b16481b70014887741",
+        "kind": "meal",
+        "price": 20.7,
+        "quantity": 1,
+        "items": [
+          "5a0f2f12b1a9ce00145b97b4",
+          "59161c71cb7257001150eb42",
+          "5a25ca32be7d27001455e0b5"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb3f",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb3f"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "595653461cfa4a00119e76e1",
+        "kind": "product",
+        "price": 18.9,
+        "quantity": 1,
+        "items": [
+          "595653461cfa4a00119e76e1"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 13:36:30.965000+00:00",
+    "sale_id": "5ae86d5ead4a7e001416efd7",
+    "customer_id": "5ae869acad4a7e001416efc0",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "59161c71cb7257001150eb61",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb61"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb69",
+        "kind": "product",
+        "price": 13.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb69"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb75",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb75"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2b",
+        "kind": "product",
+        "price": 11.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2b"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb73",
+        "kind": "product",
+        "price": 4.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb73"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2d",
+        "kind": "product",
+        "price": 7.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb2d"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb31",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb31"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb59",
+        "kind": "product",
+        "price": 5.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb59"
+        ]
+      },
+      {
+        "product_id": "595653461cfa4a00119e76e1",
+        "kind": "product",
+        "price": 18.9,
+        "quantity": 1,
+        "items": [
+          "595653461cfa4a00119e76e1"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb2f",
+        "kind": "product",
+        "price": 5.5,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb2f"
+        ]
+      },
+      {
+        "product_id": "5a8c8402126bb30014b96e59",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a8c8402126bb30014b96e59"
+        ]
+      },
+      {
+        "product_id": "5a4d3b63285921001450822a",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "5a4d3b63285921001450822a"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb32",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb32"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb38",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb38"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb72",
+        "kind": "product",
+        "price": 12.9,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb72"
+        ]
+      },
+      {
+        "product_id": "59161c71cb7257001150eb5a",
+        "kind": "product",
+        "price": 6.5,
+        "quantity": 2,
+        "items": [
+          "59161c71cb7257001150eb5a"
+        ]
+      }
+    ]
+  },
+  {
+    "sale_date": "2018-05-01 13:53:08.593000+00:00",
+    "sale_id": "5ae87144ad4a7e001416efe4",
+    "customer_id": "5ae31f2b48e2710014e24cdb",
+    "distribution_center_id": "587e81a99565c515f102b3ac",
+    "delivery_kind": "delivery",
+    "products": [
+      {
+        "product_id": "5ae870c0ad4a7e001416efe1",
+        "kind": "kit",
+        "price": 150.1,
+        "quantity": 1,
+        "items": [
+          "59161c71cb7257001150eb68",
+          "59161c71cb7257001150eb4e",
+          "59161c71cb7257001150eb5a",
+          "59161c71cb7257001150eb66",
+          "5a4cebc265421f0014b70d63",
+          "59161c71cb7257001150eb2f",
+          "5ab102cb11036000148d4d1f",
+          "592caecbcf8abf00114e223e",
+          "59161c71cb7257001150eb33",
+          "59161c71cb7257001150eb2c",
+          "5947bd9a056d7200113bd555",
+          "59161c71cb7257001150eb70",
+          "59161c71cb7257001150eb42",
+          "59161c71cb7257001150eb67",
+          "59161c71cb7257001150eb4e",
+          "59161c71cb7257001150eb38",
+          "59161c71cb7257001150eb55",
+          "5abe5deb49e81c00142f816b",
+          "5abe664649e81c00142f816c",
+          "59161c71cb7257001150eb36",
+          "59161c71cb7257001150eb4b",
+          "59161c71cb7257001150eb3e"
+        ]
+      }
+    ]
+  }
+]
