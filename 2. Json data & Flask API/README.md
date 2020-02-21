@@ -1,1 +1,1 @@
-![Image description](https://github.com/guilhermecsm/Data-Science-Challenge/blob/master/2.%20Json%20data%20%26%20Flask%20API/Capture.PNG)
+![Image description](https://github.com/guilhermecsm/Data-Science-Challenge/blob/master/2.%20Json%20data%20%26%20Flask%20API/Instructions.PNG)
