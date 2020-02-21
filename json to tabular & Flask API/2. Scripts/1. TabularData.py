@@ -18,7 +18,7 @@ def get_tabular_data():
     '''
 
     # Read json file
-    with open("./1. Dados Recebidos/coding_challenge_data (3).json", "r") as f:
+    with open("./1. Dados Recebidos/sales.json", "r") as f:
         file = json.load(f)
 
     lst = []

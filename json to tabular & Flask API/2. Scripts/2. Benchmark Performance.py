@@ -10,7 +10,7 @@ main_path = os.path.abspath(main_path)
 os.chdir(main_path)
 
 # Read json file
-with open("./1. Dados Recebidos/coding_challenge_data (3).json", "r") as f:
+with open("./1. Dados Recebidos/sales.json", "r") as f:
     file = json.load(f)
 
 print(f'There are {len(file)} sales sample.')  # There are 50 sales sample.
